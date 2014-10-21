@@ -3,13 +3,11 @@ Land-Patent-Mapping
 
 ###Introduction
 For an introduction to this effort, please read the following blog post:
-http://mapstoryblog.thenittygritty.org/
+<br>http://mapstoryblog.thenittygritty.org/
 
 If you would like to get involved with this project, or have any comments or questions, please feel free to contact:
-
-Nitin Gadia
-
-nitingadia@mapstory.org
+<br>Nitin Gadia
+<br>nitingadia@mapstory.org
 
 ###Process:
 This is a repository of the sql queries needed for creating mapstories of US land patents.
