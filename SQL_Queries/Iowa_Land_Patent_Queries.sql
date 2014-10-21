@@ -1,4 +1,4 @@
-﻿-- Create table for patent description csv
+﻿-- Create table for patent description csv 
 DROP TABLE IF EXISTS Iowa_Patent_Descriptions CASCADE;
 
 CREATE TABLE Iowa_Patent_Descriptions
