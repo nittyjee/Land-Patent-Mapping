@@ -17,4 +17,4 @@ Each state will be processed separately as follows:
 http://www.glorecords.blm.gov/BulkData/default.aspx
 For more info on this data:
 http://www.glorecords.blm.gov/reference/default.aspx#id=07_Web_Services_And_Bulk_Data|01_Web_Services_Introduction
-- Using SQL queries, a csv file will be generated of the Land Patent Descriptions that can be used to join to the GIS data. Each state will have a separate SQL query file.
+- Using SQL queries, a csv file will be generated of the Land Patent Descriptions that can be used to join to the GIS data. Each state will have a separate SQL query file. All SQL query files will be under the SQL_Queries branch (click on "Branches" above, and click on "SQL_Queries").
